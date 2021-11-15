@@ -14,6 +14,7 @@ declare module 'vue' {
     Footer: typeof import('./components/Footer.vue')['default']
     Layout: typeof import('./components/Layout.vue')['default']
     Navigation: typeof import('./components/Navigation.vue')['default']
+    SubNavigation: typeof import('./components/SubNavigation.vue')['default']
   }
 }
 
