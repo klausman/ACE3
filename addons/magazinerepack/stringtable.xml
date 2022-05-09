@@ -182,5 +182,10 @@
             <German>Magazin umgepackt, Waffe entladen</German>
             <Polish>Przepakowywanie magazynków, broń rozładowana</Polish>
         </Key>
+        <Key ID="STR_ACE_MagazineRepack_repackAnimation">
+            <English>Repack Animation</English>
+            <German>Animation für Umpacken</German>
+            <Polish>Animacja przepakowywania</Polish>
+        </Key>
     </Package>
 </Project>
