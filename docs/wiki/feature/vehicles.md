@@ -14,8 +14,8 @@ version:
 
 ## 1. Overview
 
-### 1.1 Speed limiter
-Adds ability to limit the max. speed of any vehicle.
+### 1.1 Speed limiter & Cruise Control
+Adds ability to limit the max speed of any vehicle, or enable cruise control.
 
 ### 1.2 Engine start delay
 The engine has to be started before the vehicle can move. Starting the engine takes aprox. 1 to 2 seconds.
