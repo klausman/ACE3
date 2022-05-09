@@ -67,7 +67,7 @@ switch (GVAR(currentLeftPanel)) do {
 
                 [GVAR(center), _item] call CBA_fnc_addWeaponWithoutItems;
                 if (_compatibleMags isNotEqualTo []) then {
-                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0]];
+                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0], true];
                 };
 
                 {
@@ -110,7 +110,7 @@ switch (GVAR(currentLeftPanel)) do {
 
                 [GVAR(center), _item] call CBA_fnc_addWeaponWithoutItems;
                 if (_compatibleMags isNotEqualTo []) then {
-                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0]];
+                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0], true];
                 };
 
                 {
@@ -152,7 +152,7 @@ switch (GVAR(currentLeftPanel)) do {
 
                 [GVAR(center), _item] call CBA_fnc_addWeaponWithoutItems;
                 if (_compatibleMags isNotEqualTo []) then {
-                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0]];
+                    GVAR(center) addWeaponItem [_item, [_compatibleMags select 0], true];
                 };
 
                 {
